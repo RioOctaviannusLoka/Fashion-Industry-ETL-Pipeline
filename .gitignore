@@ -1,0 +1,7 @@
+.env
+.coverage
+tests/__pycache__
+utils/__pycache__
+google-sheets-api.json
+submission-pemda.zip
+submission.txt
